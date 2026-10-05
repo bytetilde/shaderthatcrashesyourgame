@@ -2,4 +2,6 @@
 
 current status: gpu hang
 
+macos compatible
+
 unlicense
