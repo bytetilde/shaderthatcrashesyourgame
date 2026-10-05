@@ -1,7 +1,7 @@
 # shader that crashes your game
 
-current status: gpu hang
+current status: crash (java.lang.StackOverflowError)
 
-macos compatible
+**should be** macos compatible (not tested)
 
 unlicense
